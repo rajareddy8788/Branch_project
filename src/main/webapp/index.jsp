@@ -442,7 +442,7 @@
 <body>
     <header class="glass-header">
         <div class="container header-flex">
-            <div class="logo"><i class="fas fa-bolt" style="color: #3b82f6;"></i> NovaMart</div>
+            <div class="logo"><i class="fas fa-bolt" style="color: #3b82f6;"></i> D Mart</div>
             <div class="nav-links">
                 <a href="#" class="nav-link" data-nav="home">Home</a>
                 <a href="#" class="nav-link" data-nav="shop">Shop</a>
@@ -538,11 +538,11 @@
 
     <footer class="footer-modern">
         <div class="container" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 32px;">
-            <div><div class="logo" style="font-size: 24px;">NovaMart</div><p style="margin-top: 12px; max-width: 260px;">Next-gen e-commerce experience. Innovation meets style.</p></div>
+            <div><div class="logo" style="font-size: 24px;">D Mart</div><p style="margin-top: 12px; max-width: 260px;">Next-gen e-commerce experience. Innovation meets style.</p></div>
             <div><h4>Explore</h4><p>About<br>Careers<br>Sustainability</p></div>
             <div><h4>Support</h4><p>Help Center<br>Returns<br>Contact</p></div>
         </div>
-        <div class="container" style="text-align: center; margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border-light);">© 2026 NovaMart — Redefining modern retail</div>
+        <div class="container" style="text-align: center; margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border-light);">© 2026 D Mart — Redefining modern retail</div>
     </footer>
 
     <script>
